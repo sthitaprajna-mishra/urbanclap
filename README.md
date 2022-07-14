@@ -7,8 +7,6 @@
 
 ## About the project
 
----
-
 This project is focused on creating a minimalistic but attractive website for connecting customers with home service professionals. Based on the popular platform [UrbanCompany](https://www.urbancompany.com/bangalore) (erstwhile UrbanClap), this project is mostly focused on the design and responsiveness of the website. Though no backend work is present at the moment, this can easily serve as a front-end template for a full-stack project.
 
 Attached below are a few screenshots of this site - 
@@ -27,23 +25,17 @@ Attached below are a few screenshots of this site -
 
 ## Built With
 
----
-
 + HTML
 + CSS
 + JavaScript
 
 ## Tools
 
----
-
 + [git](https://git-scm.com/downloads)
 + [Visual Studio Code](https://code.visualstudio.com/)
 + [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
 ## Setup and Installation
-
----
 
 + In order to set up all the code on your local machine, you can either download a ZIP of all the files directly or you can clone the code to your local machine, provided you installed git.
 
