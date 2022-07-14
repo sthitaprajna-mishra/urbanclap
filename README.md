@@ -1,7 +1,7 @@
 # UrbanClap: Home Service Website
 
 <p align="center">
-<a href="https://urbanclap.netlify.app">View Demo</a>
+<a href="https://urban-clap.netlify.app">View Demo</a>
 </p>
 
 
